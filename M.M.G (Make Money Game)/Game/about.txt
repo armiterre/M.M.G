@@ -1,0 +1,29 @@
+
+About M.M.G *(Make Money Game)*
+
+---------------------------------
+This text-based adventure game allows players to explore, work, and shop in a virtual world.
+It was created by [Your Name] and offers various features such as character customization, multiple job options, and luck-based mining mechanics.
+---------------------------------
+
+FAQ:
+Q: How do I play?
+A: Simply choose options from the menu to perform actions like working, exploring, or shopping.
+
+Q: How do I save my progress?
+A: In the main game menu, select the "Save Game" option and enter a name for your save file.
+
+Q: Can I customize my character?
+A: Yes, you can! In the main menu, select "Customize Character" and choose from different character options.
+
+Q: Are there any hidden secrets or easter eggs?
+A: Yes, keep an eye out for hidden surprises and special events as you play!
+
+_________________________________________________
+Enjoy playing and embark on exciting adventures!
+-------------------------------------------------
+
+
+-----------------------
+*armiterre (main dev)*
+-----------------------

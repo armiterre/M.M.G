@@ -1,0 +1,12 @@
+If there is no game save it means you have never save or the game might me corrupted
+---------------------------------------------------------                                                         
+1: Try starting the game and saving th game files.
+2: try re-installing the game from a known source                                                                         
+3: contact devs about any problem encountered.                                              
+---------------------------------------------------------                                     
+Make sure you installed the game from the github
+
+Have fun!!
+----------------------------
+*armiterre (main devlopper)*
+----------------------------

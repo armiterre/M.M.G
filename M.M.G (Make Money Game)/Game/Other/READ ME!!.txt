@@ -1,0 +1,24 @@
+Make money the game - Readme
+
+═══════════════════════════════════════════════════════════════════════════════════════════
+
+Saving and Recovering Game Files:
+
+1. Saving the Game:
+   - In the main game menu, select the "Save Game" option.
+   - Enter a name for your save file when prompted and press Enter.
+   - Your game progress will be saved to a text file with the specified name.
+
+2. Recovering Game Files:
+   - To recover a saved game, ensure that the save file is in the same directory as the game batch file.
+   - Launch the game batch file.
+   - When prompted to load a saved game, enter the name of the save file (without the .txt extension) and press Enter.
+   - Your saved game will be loaded, and you can continue playing from where you left off.
+
+Note: 
+- Save files are stored as plain text files (.txt) and can be edited manually if needed.
+- Make sure not to delete or modify save files if you want to preserve your game progress.
+
+Enjoy playing the Text Adventure Game!
+
+═══════════════════════════════════════════════════════════════════════════════════════════
